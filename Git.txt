@@ -2,4 +2,12 @@
 
 1 > git status  ====> To know Git Status
 
-2 > 
+2 > git init  ====> To initialize git repository 
+
+3 > git add . /  or git add <filename>  ====>  [ To stage all files ]
+
+4 > git commit -m <"some message">   ====> to Commit to Git repo
+
+5 > git remote add origin  <SSH url> =====> to link github repo to local repo
+
+6 > git push - u origin master ====> to push into github repo
